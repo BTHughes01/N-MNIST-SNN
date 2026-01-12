@@ -1,9 +1,8 @@
 # Spiking Neural Network on N-MNIST
-![Output layer spike dynamics](output_layer_spikes_over_time.gif)
-
 This repository contains an implementation of a **convolutional spiking neural network (SNN)** trained on the **N-MNIST** event-based vision dataset. The project explores supervised learning with **Leaky Integrate-and-Fire (LIF)** neurons using **surrogate-gradient backpropagation**.
 
 The notebook covers event preprocessing, neuromorphic visualisations, model definition, training, and evaluation.
+![Output layer spike dynamics](output_layer_spikes_over_time.gif)
 
 ---
 
